@@ -1,0 +1,7 @@
+TODO:
+
+1) Characterize the sin function's range. -4096 to 4096 
+2) figure out how pushmatrix/popmatrix works and how to use them ? still a mystery.
+3) figure out how to individually scale the cubes Done!
+4) find out how to properly scale/phase the sin function. done!
+
