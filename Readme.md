@@ -1,5 +1,11 @@
 This is an attempt at a playstation version of the cube wave by bees and bombs.
 
+![Demo gif](screenshots/psx-beesnbombs.gif)
+
+
+
+![Demo gif](screenshots/Beesnbombs.png)
+
 The inspiration comes from Daniel Shiffman.
 
 His version is in P5 or processing (one of those), and he has access to a "box" class, so 
