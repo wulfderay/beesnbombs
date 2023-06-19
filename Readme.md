@@ -1,4 +1,4 @@
-This is an attempt at a playstation version of the cube wave by bees and bombs.
+This is an attempt at a playstation version of the [cube wave by bees and bombs](https://beesandbombs.tumblr.com/post/149654056864/cube-wave).
 
 ![Demo gif](screenshots/psx-beesnbombs.gif)
 
